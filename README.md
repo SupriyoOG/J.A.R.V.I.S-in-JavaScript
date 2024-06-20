@@ -8,7 +8,6 @@ Welcome to **J.A.R.V.I.S**, a project built using HTML, CSS, and JavaScript! Thi
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
-
 ## About the Project
 
 J.A.R.V.I.S (Just A Rather Very Intelligent System) is inspired by the AI assistant from the Marvel Cinematic Universe. This project demonstrates my learning and application of JavaScript, alongside HTML and CSS.
