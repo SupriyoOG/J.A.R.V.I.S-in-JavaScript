@@ -6,7 +6,7 @@ Welcome to **J.A.R.V.I.S**, a project built using HTML, CSS, and JavaScript! Thi
 - [About the Project](#about-the-project)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+  - [Requirements](#requirements)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -27,7 +27,7 @@ J.A.R.V.I.S (Just A Rather Very Intelligent System) is inspired by the AI assist
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Requirements
 
 Ensure you have a modern web browser installed.
 
@@ -35,4 +35,4 @@ Ensure you have a modern web browser installed.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/J.A.R.V.I.S-in-JavaScript.git
+   git clone https://github.com/SupriyoOG/J.A.R.V.I.S-in-JavaScript.git
