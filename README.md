@@ -8,10 +8,6 @@ Welcome to **J.A.R.V.I.S**, a project built using HTML, CSS, and JavaScript! Thi
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About the Project
 
